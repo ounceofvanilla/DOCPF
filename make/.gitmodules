@@ -1,0 +1,3 @@
+[submodule "ansible"]
+	path = ansible
+		url = https://git@localhost.com:8443/bitbucket/scm/devp/ansible.git
